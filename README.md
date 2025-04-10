@@ -14,11 +14,23 @@ en son çalıştırınca
 
 
 
+-------------------
 
+langchain kullanmadan tamamen openai ın kendi servislerini kullanarak bir ChatBOT kullanacağız
+canlı bir ürün yapacağız
+Agent Kullanımını daha iyi anlamk için uygulyorz.
 
+Asistanlar:
+https://platform.openai.com/assistants
+![image](https://github.com/user-attachments/assets/16a0a723-9505-41c2-8630-042e2e415a4f)
+RAG olayını manuel buradan da kod kullanmadan  kllanabilirz 
 
+airtable .com CRM 
 
+voiceflow agint olştrabiliyorsnuz. ai ın akışını belirtiyorsnuz. bununla rayüz oluşturabiliyorsn. buradan alıp kendi projemize emmbed edeceğiz
 
+sunucu için DigitalOcean ile deploy edecek. ama Genelde AWS kullanılır
 
+pip install -r requirements.txt
 
 
